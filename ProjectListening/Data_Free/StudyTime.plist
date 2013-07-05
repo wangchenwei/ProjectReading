@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>kStudyTime</key>
+		<integer>1800</integer>
+		<key>kStudyTimeImg</key>
+		<string>easyBtn.png</string>
+		<key>kStudyTimeInfoCN</key>
+		<string>低强度，每天为您分配15分钟左右的听力材料，学习时间为30分钟，适合时间碎片化的您使用。</string>
+		<key>kStudyTimeInfoEN</key>
+		<string>低强度，每天为您分配15分钟左右的听力材料(视具体试题而定)，学习时间为30分钟，适合时间碎片化的您使用。</string>
+		<key>kStudyTimeInfoJP</key>
+		<string>低强度，每天为您分配15分钟左右的听力材料(视具体试题而定)，学习时间为30分钟，适合时间碎片化的您使用。</string>
+	</dict>
+	<dict>
+		<key>kStudyTime</key>
+		<integer>3600</integer>
+		<key>kStudyTimeImg</key>
+		<string>normalBtn.png</string>
+		<key>kStudyTimeInfoCN</key>
+		<string>中等强度，每天为您分配30分钟左右的听力材料，学习时间为1小时，适合学习用功的您使用。</string>
+		<key>kStudyTimeInfoEN</key>
+		<string>中等强度，每天为您分配30分钟左右的听力材料(视具体试题而定)，学习时间为1小时，适合学习用功的您使用。</string>
+		<key>kStudyTimeInfoJP</key>
+		<string>中等强度，每天为您分配30分钟左右的听力材料(视具体试题而定)，学习时间为1小时，适合学习用功的您使用。</string>
+	</dict>
+	<dict>
+		<key>kStudyTime</key>
+		<integer>7200</integer>
+		<key>kStudyTimeImg</key>
+		<string>hardBtn.png</string>
+		<key>kStudyTimeInfoCN</key>
+		<string>高强度，每天为您分配1小时左右的听力材料，学习时间为2小时，适合需要冲刺考试的您使用。</string>
+		<key>kStudyTimeInfoEN</key>
+		<string>高难度，每天为您分配大约1个小时左右听力材料，适合学习用功的您选择。</string>
+		<key>kStudyTimeInfoJP</key>
+		<string>高难度，每天为您分配大约1个小时左右听力材料，适合学习用功的您选择。</string>
+	</dict>
+</array>
+</plist>

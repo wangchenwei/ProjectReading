@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  ToeflListening
+
+  Created by zhaozilong on 13-5-10.
+
+*/
+/******Store的翻译********/
+"STORE_ALERT_TITLE" = "メッセージ";
+"STORE_ALERT_MSG" = "App Storeで購入することはできません";
+"STORE_ALERT_CLOSE" = "閉じる";
+
+"STORE_ALERT_CON" = "ありがとう";
+"STORE_ALERT_CON_MSG" = "お支払いに成功しました";
+"STORE_ALERT_CON_OK" = "閉じる";
+
+"STORE_ALERT_FAIL_TITLE" = "失敗しました";
+"STORE_ALERT_FAIL_MSG" = "お支払いに失敗しました";
+"STORE_ALERT_FAIL_CLOSE" = "閉じる";
+
+"INDICATOR_NET_ERROR" = "ネットワークエラー";
+"INDICATOR_NET_NOT_CONNECT" = "ネットワークにつながりません";
+
+"SEND" = "放送";

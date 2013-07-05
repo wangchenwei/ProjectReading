@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  ToeflListening
+
+  Created by zhaozilong on 13-5-10.
+
+*/
+/******Store的翻译********/
+
+"STORE_ALERT_TITLE" = "提示";
+"STORE_ALERT_MSG" = "Not available in App Store";
+
+"STORE_ALERT_CLOSE" = "关闭";
+
+
+"STORE_ALERT_CON" = "谢谢";
+"STORE_ALERT_CON_MSG" = "支付成功";
+"STORE_ALERT_CON_OK" = "好";
+
+
+"STORE_ALERT_FAIL_TITLE" = "失败";
+"STORE_ALERT_FAIL_MSG" = "购买失败";
+"STORE_ALERT_FAIL_CLOSE" = "关闭";
+
+"INDICATOR_NET_ERROR" = "网络链接错误";
+"INDICATOR_NET_NOT_CONNECT" = "网络链接错误";
+
+"SEND" = "发送";

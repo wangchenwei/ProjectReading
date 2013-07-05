@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ProductImg</key>
+		<string>product1.png</string>
+		<key>ProductID</key>
+		<string>com.iyuba.ToeflListening.set1</string>
+		<key>ProductNameCN</key>
+		<string>托福TPO5-TPO14</string>
+		<key>ProductNameJP</key>
+		<string>TPO5-TPO14</string>
+		<key>ProductNameEN</key>
+		<string>TPO5-TPO14</string>
+		<key>ProductInfo</key>
+		<string>10 Sets</string>
+		<key>ProductIsFreeAll</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>ProductImg</key>
+		<string>product2.png</string>
+		<key>ProductID</key>
+		<string>com.iyuba.ToeflListening.set2</string>
+		<key>ProductNameCN</key>
+		<string>托福TPO5-TPO14</string>
+		<key>ProductNameJP</key>
+		<string>TPO15-TPO24</string>
+		<key>ProductNameEN</key>
+		<string>TPO15-TPO24</string>
+		<key>ProductInfo</key>
+		<string>10 Sets</string>
+		<key>ProductIsFreeAll</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>ProductImg</key>
+		<string>product3.png</string>
+		<key>ProductID</key>
+		<string>com.iyuba.ToeflListening.set3</string>
+		<key>ProductNameCN</key>
+		<string>托福TPO5-TPO24</string>
+		<key>ProductNameJP</key>
+		<string>TPO5-TPO24</string>
+		<key>ProductNameEN</key>
+		<string>TPO5-TPO24</string>
+		<key>ProductInfo</key>
+		<string>20 Sets</string>
+		<key>ProductIsFreeAll</key>
+		<true/>
+	</dict>
+</array>
+</plist>

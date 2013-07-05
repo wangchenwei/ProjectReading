@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>kAssID</key>
+		<integer>0</integer>
+		<key>kAssCName</key>
+		<string>小俊</string>
+		<key>kAssJName</key>
+		<string>森君</string>
+		<key>kAssEName</key>
+		<string>Ken</string>
+		<key>kAssCInfo</key>
+		<string>嗨！老大，我是大椰，性格开朗不拘泥。托福考试上次我没考过，选我当助理，让我们一起进步吧！</string>
+		<key>kAssJInfo</key>
+		<string></string>
+		<key>kAssEInfo</key>
+		<string></string>
+		<key>kAssImgName</key>
+		<string>dayeFirst.png</string>
+	</dict>
+	<dict>
+		<key>kAssID</key>
+		<integer>1</integer>
+		<key>kAssCName</key>
+		<string>小桃</string>
+		<key>kAssJName</key>
+		<string>ももじゃん</string>
+		<key>kAssEName</key>
+		<string>Kate</string>
+		<key>kAssCInfo</key>
+		<string>主人你好，我叫小桃，性格温和，但绝对属于完美主义者哟，你要是委托我来监督你的话，可要做好心里准备，我会很严格的要求你哦！</string>
+		<key>kAssJInfo</key>
+		<string></string>
+		<key>kAssEInfo</key>
+		<string></string>
+		<key>kAssImgName</key>
+		<string>xiaotaoFirst.png</string>
+	</dict>
+</array>
+</plist>
